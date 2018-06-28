@@ -17,7 +17,7 @@
 	},
 	"dependencies": {
 		"commander": "1.0.x",
-	    "pegasus": "0.7.x"
+	    "pegasus": "0.8.3"
   	},
 	"main": "lib/main.js",
 	"bin" : {
